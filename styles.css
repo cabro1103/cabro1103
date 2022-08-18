@@ -1,0 +1,57 @@
+.hl {
+    font-weight: bold;
+    background-color: hsla(45, 100%, 75%, 0.5);
+    color: white;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+h1 {
+    background-color: hsl(230, 8%, 10%);
+    border: 3px solid slategray;
+    padding: 20px;
+    color: hsla(45, 100%, 75%, 0.5);
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h3 {
+    background-color: transparent;
+    color: slategray;
+}
+
+* {
+    font-family: Helvetica, sans-serif;
+    background-color: hsl(230, 13%, 18%);
+}
+
+table {
+    margin: auto;
+    background-color: hsla(45, 100%, 75%, 0.5);
+    border: 2px solid hsl(230, 13%, 18%);
+}
+
+thead, .colhead {
+    font-weight: bold;
+    text-align: center;
+}
+
+.rowhead {
+    color: silver;
+    background-color: hsl(349, 30%, 20%);
+}
+
+td {
+    background-color: hsl(349, 25%, 28%);
+    color: lightgray;
+    word-wrap: break-word;
+    max-width: 450px;
+    padding: 10px;
+}
+
+.section {
+    background-color: hsl(230, 8%, 10%);
+    padding: 25px;
+}
