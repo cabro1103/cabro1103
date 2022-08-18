@@ -15,6 +15,7 @@ h1 {
     color: hsla(45, 100%, 75%, 0.5);
     text-align: center;
     text-transform: uppercase;
+    border-radius: 15px;
 }
 
 h3 {
@@ -54,4 +55,5 @@ td {
 .section {
     background-color: hsl(230, 8%, 10%);
     padding: 25px;
+    border-radius: 25px;
 }
